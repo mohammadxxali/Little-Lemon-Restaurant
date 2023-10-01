@@ -1,8 +1,6 @@
 # Little-Lemon-Restaurant
 
 
-### Project Live :
-
 
 --------
 
